@@ -7,7 +7,12 @@
 ![container](./img/Deliverable-Container%20Diagram.drawio.png)
 
 ## Deployment Diagram
-![deployment](./img/Deliverable-Container%20Diagram.drawio.png)
+![deployment](./img/Deliverable-Deployment%20Diagram.drawio.png)
+
+# CRUD Item & Subscription Box
+Kristoforus Adi Himawan - 2206812174
+## Code Diagram
+![itemsubsbox-coded](./img/itemsubsbox-codediagram.png)
 
 # Rating & Review Service
 > Reza Apriono - 2206827945
